@@ -1,0 +1,12 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/be14-2nd-spring-is-coming/eureka-server-marktory.git
+[submodule "main-server"]
+	path = main-server
+	url = https://github.com/be14-2nd-spring-is-coming/main-server-marktory.git
+[submodule "gateway-server"]
+	path = gateway-server
+	url = https://github.com/be14-2nd-spring-is-coming/gateway-server-marktory.git
+[submodule "member-server"]
+	path = member-server
+	url = https://github.com/be14-2nd-spring-is-coming/member-server-marktory.git
